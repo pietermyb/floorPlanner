@@ -19,13 +19,11 @@ ionic serve
 
 # Serving the app on Android
 
-You will need Java's JDK:\
+* You will need Java's JDK:\
 https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 
-
-Second you need to have the Android SDK installed:
+* Second you need to have the Android SDK installed:
 Download if from here https://developer.android.com/studio/#command-tools
-
 
 Extract the zip to C:\android\
 Next, inside tools\bin directory run the following

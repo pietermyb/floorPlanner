@@ -36,8 +36,7 @@
     "rxjs": "5.5.11",
     "sw-toolbox": "3.6.0",
     "zone.js": "0.8.26",
-    "cryptiles": ">=4.1.2",
-    "hoek": ">=4.2.1"
+    "hoek": ">= 5.0.3"
   },
   "devDependencies": {
     "@ionic/app-scripts": "3.2.0",
@@ -51,7 +50,7 @@
       "cordova-plugin-device": {},
       "cordova-plugin-splashscreen": {},
       "cordova-plugin-ionic-webview": {
-        "ANDROID_SUPPORT_ANNOTATIONS_VERSION": "27.+"
+        "ANDROID_SUPPORT_ANNOTATIONS_VERSION": "28.+"
       },
       "cordova-plugin-ionic-keyboard": {}
     },
